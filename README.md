@@ -1,2 +1,0 @@
-# MyRepo
-My Remote Repository
